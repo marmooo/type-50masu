@@ -1,4 +1,4 @@
-const cacheName = "2025-12-05 00:00";
+const cacheName = "2026-03-25 00:00";
 const urlsToCache = [
   "/type-50masu/index.js",
   "/type-50masu/mp3/end.mp3",
